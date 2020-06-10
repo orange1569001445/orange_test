@@ -1,0 +1,21 @@
+{
+    "name": "xcorange/test",
+    "description": "test",
+    "type": "1",
+    "require": {
+        "php": ">=5.6"
+    },
+    "license": "Apache",
+    "authors": [
+        {
+            "name": "orange",
+            "email": "1569001445@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+	"autoload": {
+		"psr-4": {
+			"Orange\\": "src/"
+		}
+	}
+}
